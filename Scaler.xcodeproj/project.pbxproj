@@ -51,6 +51,9 @@
 		78DDDBD2276BCFBC004813EE /* Scaler */ = {
 			isa = PBXGroup;
 			children = (
+				78DDDBE3276BCFDB004813EE /* Controller */,
+				78DDDBE2276BCFD1004813EE /* View */,
+				78DDDBE1276BCFCB004813EE /* Model */,
 				78DDDBD3276BCFBC004813EE /* ScalerApp.swift */,
 				78DDDBD5276BCFBC004813EE /* ContentView.swift */,
 				78DDDBD7276BCFBE004813EE /* Assets.xcassets */,
@@ -65,6 +68,27 @@
 				78DDDBDA276BCFBE004813EE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		78DDDBE1276BCFCB004813EE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		78DDDBE2276BCFD1004813EE /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		78DDDBE3276BCFDB004813EE /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
